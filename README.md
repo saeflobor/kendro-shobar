@@ -30,7 +30,7 @@ A modern, responsive web application for registering volunteers to protect votin
 
 2. **Install dependencies**
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. **Set up environment variables**
@@ -44,7 +44,7 @@ A modern, responsive web application for registering volunteers to protect votin
 
 4. **Run the development server**
    ```bash
-   pnpm dev
+   npm run dev
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000)
